@@ -2,9 +2,9 @@
 using namespace std;
 int main(){
    string nama;
-   double jumlah;
-   double lama;
-   float bunga;
+   int jumlah;
+   int lama;
+   int bunga;
    
    
    getline(cin, nama);
