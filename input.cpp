@@ -3,7 +3,7 @@ using namespace std;
 int main(){
    string nama;
    double jumlah;
-   float lama;
+   double lama;
    float bunga;
    
    
