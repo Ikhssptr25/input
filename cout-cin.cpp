@@ -3,7 +3,7 @@ using namespace std;
 
 int main (){
 	string nama, npm, hobi;
-	float angka1, angka2, jumlah;
+	double angka1, angka2, jumlah;
 	
 	cout <<"nama : ";
 	getline(cin, nama);
