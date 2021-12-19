@@ -8,7 +8,8 @@ int main (){
 	  kelas B*/
 	  
    	// deklarasi variabel//
-	string NPM, Tanggal_lahir, Bulan_lahir, Tahun_lahir;
+	string NPM;
+	string Tanggal_lahir, Bulan_lahir, Tahun_lahir;
 	
         //input//
 	cout<<"Masukkan NPM\t\t:"         ;getline(cin,NPM);
