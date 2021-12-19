@@ -7,10 +7,10 @@ int main (){
 	  2117051037
 	  kelas B*/
 	  
-   	 // deklarasi variabel//
+   	// deklarasi variabel//
 	string NPM, Tanggal_lahir, Bulan_lahir, Tahun_lahir;
 	
-     //input//
+        //input//
 	cout<<"Masukkan NPM\t\t:"         ;getline(cin,NPM);
 	cout<<"Masukkan Tanggal Lahir\t:" ;getline(cin,Tanggal_lahir);
 	cout<<"Masukkan Bulan Lahir\t:"   ;getline(cin,Bulan_lahir);  
