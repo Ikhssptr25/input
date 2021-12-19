@@ -7,10 +7,10 @@ int main (){
 	
 	cout <<"nama : ";
 	getline(cin, nama);
-	cout << "NPM : ";
-	getline(cin, npm);
-//	cin>>npm;
-//	cin.ignore(1, '\n');
+//	cout << "NPM : ";
+//	getline(cin, npm);
+	cin>>npm;
+	cin.ignore(1, '\n');
 	cout<<"Hobi :";
 	getline(cin, hobi);
 	cout<<"nama saya = "<<nama<< " NPM saya = "<<npm<< " hobi saya = "<<hobi;
