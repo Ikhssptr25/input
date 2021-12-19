@@ -9,7 +9,8 @@ int main (){
 	  
    	// deklarasi variabel//
 	string NPM;
-	string Tanggal_lahir, Bulan_lahir, Tahun_lahir;
+	string Tanggal_lahir;
+	string Bulan_lahir, Tahun_lahir;
 	
         //input//
 	cout<<"Masukkan NPM\t\t:"         ;getline(cin,NPM);
